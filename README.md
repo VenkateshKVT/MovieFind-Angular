@@ -1,8 +1,15 @@
 # Moviefind
 
+This is an Angular 6 application.
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.10.
 
 ## Development server
+
+This application is deployed on firebase. Please find the link as below
+
+https://moviefind-angular.firebaseapp.com/
+
+or
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
